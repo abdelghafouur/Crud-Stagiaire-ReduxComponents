@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'; */
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 //import App from './tp3/App4';
-import App from './tp4/App';
+import App from './ReduxComponents/App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
